@@ -22,14 +22,14 @@
   /* выше установили ограничения для секции */
 }
 .logo {
-  position: absolute;
   width: 183px;
-  height: 32px;
-  top: 30px;
   
 }
 .logo_place_header {
   left: 64px;
+  top: 30px;
+  position: absolute;
+  height: 32px;
 }
 .header__title {
   max-width: 730px;
@@ -277,7 +277,7 @@ color: white;
   position: relative;
 }
 .logo_place-footer {
-  width: 183px;
+  
   height: 35px;
 }
 .footer__author {
