@@ -5,7 +5,7 @@
     font-weight: bold;
     left: 64px;
     top: 210px;
-    position: relative;
+    position: absolute;
     justify-content: center;
     text-align: left;
   }
