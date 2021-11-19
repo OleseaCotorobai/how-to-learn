@@ -3,9 +3,5 @@
     font-size: 102px;
     line-height: 96px;
     font-weight: bold;
-    left: 64px;
-    top: 210px;
-    position: absolute;
-    justify-content: center;
-    text-align: left;
+    margin-left: 64px;
   }
