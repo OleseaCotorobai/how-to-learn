@@ -3,8 +3,8 @@
 @import url(../blocks/page/page.css);
 /***logo***/
 @import url(../blocks/logo/logo.css);
-@import url(../blocks/logo/_place/logo_place_footer.css);
-@import url(../blocks/logo/_place/logo_place_header.css);
+@import url(../blocks/logo/__place/logo_place_footer.css);
+@import url(../blocks/logo/__place/logo_place_header.css);
 /***header***/
 @import url(../blocks/header/header.css);
 @import url(../blocks/header/__link/header__link.css);
@@ -30,10 +30,10 @@
 @import url(../blocks/oakley/oakley.css);
 /***two-columns***/
 @import url(../blocks/two-columns/two-columns.css);
-@import url(../blocks/two-columns/_brief/two-columns_brief.css);
-@import url(../blocks/two-columns/_main-text/two-columns_main-text.css);
-@import url(../blocks/two-columns/_paragraph/two-columns_paragraph.css);
-@import url(../blocks/two-columns/_span-accent/two-columns_span-accent.css);
+@import url(../blocks/two-columns/__brief/two-columns__brief.css);
+@import url(../blocks/two-columns/__main-text/two-columns__main-text.css);
+@import url(../blocks/two-columns/__paragraph/two-columns__paragraph.css);
+@import url(../blocks/two-columns/__span-accent/two-columns__span-accent.css);
 /***kaufman***/
 @import url(../blocks/kaufman/kaufman.css);
 @import url(../blocks/kaufman/__triangle/kaufman__triangle.css);
@@ -71,13 +71,14 @@
 @import url(../blocks/footer/__column/_content/footer__column_content_info.css);
 @import url(../blocks/footer/__column/_content/footer__column_content_social.css);
 @import url(../blocks/footer/__columns/footer__columns.css);
+@import url(../blocks/footer/__link/footer__link.css);
 @import url(../blocks/footer/__social-icon/footer__social-icon.css);
 /***section-title***/
 @import url(../blocks/section-title/section-title.css);
-@import url(../blocks/section-title/_theme/section-title_theme_dark.css);
+@import url(../blocks/section-title/__theme/section-title_theme_dark.css);
 /***section-subtitle***/
 @import url(../blocks/section-subtitle/section-subtitle.css);
-@import url(../blocks/section-subtitle/_theme/section-subtitle_theme_dark.css);
+@import url(../blocks/section-subtitle/__theme/section-subtitle_theme_dark.css);
 /***table***/
 @import url(../blocks/table/table.css);
 @import url(../blocks/table/__cell/table__cell.css);

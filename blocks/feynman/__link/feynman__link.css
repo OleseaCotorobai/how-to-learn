@@ -8,6 +8,7 @@
     right: 48px;
     text-align: right;
     text-decoration: none;
+    color: #2f80ed;
     transition-property:  opacity 0.3s ease;
   }
 
